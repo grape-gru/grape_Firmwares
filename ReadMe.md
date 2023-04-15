@@ -1,5 +1,5 @@
-<h1 align="center">XFW - <code>Xtreme Firmware</code> for the Flipper Zero</h1>
-<h3 align="center">Feature-rich, stable, customizable</h3>
+<h1 align="center">grapes- <code> "not-so extreme" girmware</code> for the slipper fero</h1>
+<h3 align="center">doesn't blow smoke up your ass</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55334727/215170306-051eeb8f-8f72-437f-8c2d-0e4be009bdad.png">
@@ -12,19 +12,17 @@ This firmware is a complete overhaul of the [Official Firmware](https://github.c
 
 -----
 <br>
-<h2 align="center">What makes it special?</h2>
+<h2 align="center">why does this section try to sell you on something you already bought?</h2>
 
-We have spent many hours perfecting this code even further, and getting the most out of it.
-
-The goal of this Firmware is to regularly bring out amazing updates based on what the community wants, with an actual understanding of whats going on. Fixing bugs that are regularly talked about, removing unstable / broken applications (.FAP) and actually using the level system that just sits abandoned everywhere else.
+nothing. its just not annoying or attached to idiot children and their precious cult. 
 <br><br>
-- <h4>Feature-rich: We include all commonly found apps in the firmware, as long as they work.</h4>
+- <h4>blowing smoke up your ass for no raisin!!!</h4>
 
-- <h4>Stable: Many hours have been spent rewriting core parts of the Flippers firmware as well as some of its apps to ensure stability. A task that was long needed on all Firmware, so we tackled it right away.</h4>
+- <h4>lies upon lies upon lies</h4>
 
-- <h4>Customizable: Dont like the Animations, want to turn on/off the Home screen icons (battery, SD card etc), change the flippers name or anything like that? You absolutely can. No need to mess with code or deal with weird manifest files. Its all done with an App.</h4>
+- <h4>just make your own and stop reading this horrible bullshit written by some 13 yr old.</h4>
 <br><br>
-Note, the below mentioned changes are only a few things we did. For a full list click [here](https://github.com/ClaraCrazy/Flipper-Xtreme/wiki/Customization)
+A full list of changes can be found [here](https://github.com/ClaraCrazy/Flipper-Xtreme/wiki/Customization)
 
 -----
 <br>
@@ -35,13 +33,13 @@ We wrote a powerful yet easy-to-use application specifically for our Firmware, t
 <img src="https://user-images.githubusercontent.com/49810075/228392945-1e68b996-4e2c-46c6-8aae-d0aadd8ea001.gif" align="left" width="400px"/>
 
 <ins><b>Interface:</b></ins>
-Customize every bit of your Flipper, from the desktop animations, to the main menu apps, lockscreen style, statusbar items and screen options like dark mode and lefty mode(yes, we thought about you :3 ).
+Change meaningless shit from the desktop animations, to the main menu apps, lockscreen style, statusbar items and screen options like dark mode and lefty mode.
 
 <ins><b>Protocols:</b></ins>
-Here you can toggle USB & Bluetooth mode for our Bad-Keyboard app, and manage Subghz settings like custom frequencies and extend options.
+Toggle USB & Bluetooth mode for our Bad-Keyboard app, and manage Subghz settings.
 
 <ins><b>Misc:</b></ins>
-All the other options that don't fit elsewhere. Change your Flipper's name, change xp level, and manage settings for RGB backlight.
+Change Flipper's name, xp level, manage settings for RGB backlight.
 
 <br clear="left"/>
 
@@ -214,25 +212,5 @@ $ ./fbt resources icons dolphin_ext
 ```
 
 ----
-<h2 align="center">Stargazers over time</h2>
-
-[![Stargazers over time](https://starchart.cc/ClaraCrazy/Flipper-Xtreme.svg)](https://starchart.cc/ClaraCrazy/Flipper-Xtreme)
-
-----
-<h2 align="center">Contributors</h2>
-
-[![Contributors](https://user-images.githubusercontent.com/49810075/228231815-8f0a267d-ac1a-494c-9cd0-1cd57568fc79.svg)](https://github.com/ClaraCrazy/Flipper-Xtreme/graphs/contributors)
 
 
-## ❤️ Support
-If you like what you're seeing, **please consider donating to us**. We won't ever put this behind a paywall, but we'd still appreciate a few bucks!
-
-- **[Direct Wire-transfer](https://bunq.me/ClaraK)**: No account needed, just specify amount and hit send
-- **[Patreon](https://patreon.com/CynthiaLabs)**
-- **[Paypal](https://paypal.me/RdX2020)**
-- **Monero**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`
-
-**Thanks for all your support <3**
-
-----
-<p align="center"> "What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine </p>
