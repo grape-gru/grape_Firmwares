@@ -26,9 +26,9 @@ A full list of changes can be found [here](https://github.com/ClaraCrazy/Flipper
 
 -----
 <br>
-<h2 align="center">Xtreme Settings:</h2>
+<h2 align="center">grape_ Settings:</h2>
 
-We wrote a powerful yet easy-to-use application specifically for our Firmware, that gives you easy-access to all the fancy things we implemented:
+stole some shit from people who actually wrote it. whatever, its fucking gpl, LFG!!!
 
 <img src="https://user-images.githubusercontent.com/49810075/228392945-1e68b996-4e2c-46c6-8aae-d0aadd8ea001.gif" align="left" width="400px"/>
 
@@ -47,7 +47,7 @@ Change Flipper's name, xp level, manage settings for RGB backlight.
 <br>
 <h2 align="center">Animations / Asset Packs:</h2>
 
-We created our own, new & improved Animation / Asset system, that we can finally reveal. It lets you to create and cycle through your own `Asset Packs` with only a few button presses, allowing you to easily load custom Animations and Icons like never before.
+stole some anims but there's a guide to make some more, if you give a shit!!!
 
 <img src="https://user-images.githubusercontent.com/55334727/214010675-9eddb8f5-1dd6-4cf4-a0ee-e37af8b6c933.PNG" align="left" width="200px"/>
 You can easily create your own pack, or find some user made ones in the discord channel. Check <a href="https://github.com/ClaraCrazy/Flipper-Xtreme/wiki/Asset-Packs">here</a> for a tutorial on creating your own. Essentially, we got our own <code>Anims</code> & <code>Icons</code> folders, inside each <code>Asset Pack</code>.
@@ -74,7 +74,7 @@ After installing the packs to Flipper, hit the <code>Arrow UP</code> button on t
 <h2 align="center">Bad Keyboard:</h2>
 
 <img src="https://user-images.githubusercontent.com/49810075/223855940-b8ee6770-4520-4bcc-a4cc-089196cf904b.png" align="left" width="250px"/>
-<! -- This fuckshit needs a captured image, but bc of blockage, i cant get one. someone do some magic plz -- !>
+
 BadUSB is a wonderful app, but it lacks bluetooth capabilities. Now some might argue that its useless as you will always need authentication from both sides, but what if I told you that we found a solution to this problem?
 <br><br>
 Bad-KB allows you to toggle between USB and Bluetooth mode for your attacks. In Bluetooth mode it allows you to spoof the name & MAC of the device to whatever you want. Being a JBL speaker or a wireless razer keyboard is easily doable, allowing you to trick people so you can run your payloads without needing a cable at hand.
